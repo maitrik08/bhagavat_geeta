@@ -44,3 +44,19 @@ making the app inclusive and accessible to a wider audience.
 Project Technologies:
 - Dart language
 - Flutter framework with MVC and Provider architecture
+
+Screenshots
+![2 (1)](https://github.com/user-attachments/assets/8ad78c56-7451-4657-9195-e650700d247d)
+![12](https://github.com/user-attachments/assets/7bd8ab95-d8e1-4b61-8b1f-46e74f4a879b)
+![11](https://github.com/user-attachments/assets/f0848226-82d7-4287-af0d-facc1f21364b)
+![10](https://github.com/user-attachments/assets/510f1c2e-cd61-479f-9b1c-7d28ee2bc7b9)
+![1 (1)](https://github.com/user-attachments/assets/09374c65-48a7-472e-9a5d-de43857dfbaf)
+![9](https://github.com/user-attachments/assets/d3e79f6c-d450-487d-a3a6-b1614c46d926)
+![8](https://github.com/user-attachments/assets/8b89b8ea-6a97-47b4-a535-d5c2bf386f9d)
+![7 (1)](https://github.com/user-attachments/assets/024258bb-6210-41ba-bad1-72b5ab4c2cdf)
+![6 (1)](https://github.com/user-attachments/assets/8efdb0a3-5d0a-4c3a-893b-5026162e3456)
+![5 (1)](https://github.com/user-attachments/assets/d80b1c1e-dd19-47cd-a8de-23e0a55d8503)
+![4 (1)](https://github.com/user-attachments/assets/074011d6-dd29-4183-870d-9fdb4b817714)
+![3 (1)](https://github.com/user-attachments/assets/256dde81-563d-420b-a914-2c3bc31d57e9)
+
+
