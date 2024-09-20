@@ -26,7 +26,6 @@ comfortable reading in different lighting conditions.
 Images in Each Verse's Chapters: To enhance the understanding and visual appeal of the
 verses, the app includes relevant images or illustrations for each chapter of the Bhagvat Geeta.
 
-“Quality is our Motto.” Page 1 of 4 Shaping “skills” for “scaling” higher...!!!
 
 These images are displayed alongside the corresponding verses, providing a holistic learning
 experience.
